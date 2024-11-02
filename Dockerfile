@@ -19,3 +19,5 @@ ENV FLASK_RUN_HOST=0.0.0.0
 
 # Run flask when the container launches
 CMD ["flask", "run"]
+
+# Test-Alan
